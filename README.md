@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshmeeshman&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmeeshman" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/lakshmeesh-mankame-goatedno1/](https://www.linkedin.com/in/lakshmeesh-mankame-goatedno1/)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/lakshmeesh-mankame](https://www.linkedin.com/in/lakshmeesh-mankame/)
 
 - 📫 How to reach me **mankame.lucky510@gmail.com**
 
